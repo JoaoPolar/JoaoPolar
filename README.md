@@ -10,4 +10,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-![snake animation](https://github.com/JoaoPolar/JoaoPolar/)
+![snake gif](https://github.com/JoaoPolar/JoaoPolar/blob/output/github-contribution-grid-snake.svg)
